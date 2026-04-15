@@ -6,7 +6,6 @@ const Hero = () => {
       <p>
         I’m a Junior Developer focusing on php and laravel.
       </p>
-
       <p>
        i have internship experience using php and ruby. 
       </p>
