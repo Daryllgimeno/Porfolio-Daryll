@@ -9,6 +9,7 @@ const Hero = () => {
       <p>
        i have internship experience using php and ruby. 
       </p>
+      <p></p>
     </div>
   );
 };

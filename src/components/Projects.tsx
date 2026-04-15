@@ -4,7 +4,7 @@ const Projects = () => {
       <h1>Projects</h1>
 
       <p><strong>Matuturo tutor finder</strong><br />
-      A web-based reviewer for students,  Built using php and mysql</p>
+      A web-based reviewer for students,  Built using PHP and mysql.</p>
       <a href="https://github.com/Daryllgimeno/Matuturo_Tutor_Finder">Repository</a>
 
       <p><strong>Agriculture inventory system</strong><br />
