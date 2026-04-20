@@ -1,7 +1,7 @@
 const Projects = () => {
   return (
     <div className="container">
-      <h1>Projects</h1>
+    
 
       <p><strong>Matuturo tutor finder</strong><br />
       A web-based reviewer for students,  Built using PHP and mysql.</p>
