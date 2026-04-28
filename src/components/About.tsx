@@ -3,7 +3,7 @@ const About = () => {
     <div className="container">
 
       <p>
-        I learned my skills through my internship. Outside of work, I enjoy jogging.
+        I learned my skills through my internship. I also enjoy jogging.
       </p>
 
       <p>

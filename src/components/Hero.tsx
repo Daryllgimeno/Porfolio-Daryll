@@ -4,7 +4,7 @@ const Hero = () => {
       <h1>Hi, I'm Daryll.</h1>
 
       <p>
-        I’m a Junior Developer focusing on php and laravel.
+        I want to be a full stack Developer currently learning PHP and Laravel. 
       </p>
       <p>
        i have internship experience using php and ruby. 
