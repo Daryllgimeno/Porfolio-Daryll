@@ -1,7 +1,7 @@
 const Projects = () => {
   return (
     <div className="container">
-    
+
 
       <p><strong>Matuturo tutor finder</strong><br />
       A web-based reviewer for students,  Built using PHP and mysql.</p>
@@ -12,6 +12,8 @@ const Projects = () => {
      </p>
      <a href="https://github.com/Daryllgimeno/Agriculture-inventory-system">Repository</a>
 
+<p><strong>EPlatify</strong><br/> Manage All Your Stores In One Powerful Platform.</p>
+<a href="https://www.eplatify.com/">Website</a>
     </div>
   );
 };
