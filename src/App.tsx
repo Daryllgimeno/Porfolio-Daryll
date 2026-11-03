@@ -24,6 +24,8 @@ function App() {
           © 2026 Daryll Gimeno. All rights reserved.
         </footer>
       </div>
+
+
     </BrowserRouter>
   )
 }
