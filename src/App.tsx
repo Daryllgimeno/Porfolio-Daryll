@@ -9,14 +9,20 @@ import Navbar from './components/Navbar'
 function App() {
   return (
     <BrowserRouter>
-      <Navbar />
+      <div className="app">
+        <Navbar />
 
-      <div className="main">
-        <Routes>
-          <Route path="/" element={<Hero />} />
-          <Route path="/about" element={<About />} />
-          <Route path="/projects" element={<Projects />} />
-        </Routes>
+        <main className="main">
+          <Routes>
+            <Route path="/" element={<Hero />} />
+            <Route path="/about" element={<About />} />
+            <Route path="/projects" element={<Projects />} />
+          </Routes>
+        </main>
+
+        <footer className="footer">
+          © 2026 Daryll Gimeno. All rights reserved.
+        </footer>
       </div>
     </BrowserRouter>
   )
