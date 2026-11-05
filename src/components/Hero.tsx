@@ -39,7 +39,7 @@ const Hero = () => {
 
       <div className="hero-side">
         <div className="profile-placeholder">
-          <span>DG</span>
+          <img src="public/Formalpicture.jpg" alt="formal-picture" />
         </div>
         <p>Developer · Problem Solver · Lifelong Learner</p>
       </div>
