@@ -39,8 +39,9 @@ const Hero = () => {
 
       <div className="hero-side">
         <div className="profile-placeholder">
-          <img src="public/Formalpicture.jpg" alt="formal-picture" />
+         <img src="/Formalpicture.jpg" alt="My Profile" />
         </div>
+
         <p>Developer · Problem Solver · Lifelong Learner</p>
       </div>
     </section>
